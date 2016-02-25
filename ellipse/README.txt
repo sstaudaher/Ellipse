@@ -1,0 +1,1 @@
+A directory for IRAF's ELLIPSE results (in txt format)
